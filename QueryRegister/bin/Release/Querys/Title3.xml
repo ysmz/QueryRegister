@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<QueryDefine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>Title3</Title>
+  <Query>Query3</Query>
+  <Description>Description3</Description>
+</QueryDefine>

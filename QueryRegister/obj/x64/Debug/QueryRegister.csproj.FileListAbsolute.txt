@@ -1,0 +1,12 @@
+C:\Users\demomo\Git\mytools\QueryRegister\QueryRegister\bin\x64\Debug\QueryRegister.exe.config
+C:\Users\demomo\Git\mytools\QueryRegister\QueryRegister\bin\x64\Debug\QueryRegister.exe
+C:\Users\demomo\Git\mytools\QueryRegister\QueryRegister\bin\x64\Debug\QueryRegister.pdb
+C:\Users\demomo\Git\mytools\QueryRegister\QueryRegister\bin\x64\Debug\PoorMansTSqlFormatterLib35.dll
+C:\Users\demomo\Git\mytools\QueryRegister\QueryRegister\obj\x64\Debug\QueryRegister.Config.resources
+C:\Users\demomo\Git\mytools\QueryRegister\QueryRegister\obj\x64\Debug\QueryRegister.QueryRegister.resources
+C:\Users\demomo\Git\mytools\QueryRegister\QueryRegister\obj\x64\Debug\QueryRegister.Properties.Resources.resources
+C:\Users\demomo\Git\mytools\QueryRegister\QueryRegister\obj\x64\Debug\QueryRegister.QueryAdd.resources
+C:\Users\demomo\Git\mytools\QueryRegister\QueryRegister\obj\x64\Debug\QueryRegister.QuerySelect.resources
+C:\Users\demomo\Git\mytools\QueryRegister\QueryRegister\obj\x64\Debug\QueryRegister.csproj.GenerateResource.Cache
+C:\Users\demomo\Git\mytools\QueryRegister\QueryRegister\obj\x64\Debug\QueryRegister.exe
+C:\Users\demomo\Git\mytools\QueryRegister\QueryRegister\obj\x64\Debug\QueryRegister.pdb
